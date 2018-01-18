@@ -63,7 +63,6 @@ html {
   justify-content: center;
   height: 8rem;
   margin: 3rem auto;
-  border: 1px solid orange;
 }
 
 .service {
@@ -74,7 +73,6 @@ html {
   align-items: center;
   text-align: center;
   margin: 0 3rem;
-  border: 1px solid orange;
 }
 
 .comprehensive img {
@@ -94,14 +92,12 @@ html {
   margin: 0 auto 5rem auto;
   display: flex;
   justify-content: center;
-  border: 1px solid orange;
 }
 
 .info-box {
   display: block;
   width: 35%;
   margin: 0 2.5%;
-  border: 1px solid orange;
 }
 
 .info-box h3 {
@@ -110,9 +106,10 @@ html {
   width: 10rem;
   background-color: cadetblue;
   color: white;
-  padding: 0.5rem auto 0.5rem 1.25rem;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  padding-left: 1.25rem;
   margin-bottom: 1rem;
-  border: 1px solid orange;s
 }
 
 
